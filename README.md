@@ -1,2 +1,2 @@
-# CS-330-Project
+# CS 330 Module Eight Journal
 Portfolio Prep
