@@ -14,3 +14,5 @@ One of the most valuable development strategies I learned was building and testi
 How can computer science help me in reaching my goals?
 
 Computational graphics and visualization have provided me with practical experience in mathematical concepts, spatial reasoning, and problem-solving. These skills support my personal or educational goals by strengthening my understanding of programming, computer graphics, and software development principles. Professionally, the project introduced me to technologies and techniques used in game development, simulation, visualization, and interactive applications. Learning how to design and render 3D environments has increased my confidence in working with graphics programming like OpenGL and has given me skills that can be applied to future software engineering, development opportunities, further learning with more professional APIs like Vulkan or personal projects.
+
+Note: The project did not fit whole so I separated the source as 3Dscene and the rest as 7-1_FinalProjectMilestones (minus the textures)
